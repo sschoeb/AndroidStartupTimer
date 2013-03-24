@@ -1,0 +1,6 @@
+C:\projects\AndroidStartupTimer\AndroidStartupTimer\bin\Debug\AndroidStartupTimer.exe.config
+C:\projects\AndroidStartupTimer\AndroidStartupTimer\bin\Debug\AndroidStartupTimer.exe
+C:\projects\AndroidStartupTimer\AndroidStartupTimer\bin\Debug\AndroidStartupTimer.pdb
+C:\projects\AndroidStartupTimer\AndroidStartupTimer\obj\Debug\AndroidStartupTimer.csprojResolveAssemblyReference.cache
+C:\projects\AndroidStartupTimer\AndroidStartupTimer\obj\Debug\AndroidStartupTimer.exe
+C:\projects\AndroidStartupTimer\AndroidStartupTimer\obj\Debug\AndroidStartupTimer.pdb

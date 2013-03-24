@@ -1,0 +1,12 @@
+C:\projects\AndroidStartupTimer\AndroidAppUnderTest\bin\Debug\AndroidAppUnderTest.dll
+C:\projects\AndroidStartupTimer\AndroidAppUnderTest\bin\Debug\AndroidAppUnderTest.pdb
+C:\projects\AndroidStartupTimer\AndroidAppUnderTest\bin\Debug\AndroidAppUnderTest.dll.mdb
+C:\projects\AndroidStartupTimer\AndroidAppUnderTest\bin\Debug\AndroidAppUnderTest.AndroidAppUnderTest.apk
+C:\projects\AndroidStartupTimer\AndroidAppUnderTest\bin\Debug\AndroidAppUnderTest.AndroidAppUnderTest-Signed.apk
+C:\projects\AndroidStartupTimer\AndroidAppUnderTest\obj\Debug\AndroidAppUnderTest.dll
+C:\projects\AndroidStartupTimer\AndroidAppUnderTest\obj\Debug\AndroidAppUnderTest.pdb
+C:\projects\AndroidStartupTimer\AndroidAppUnderTest\obj\Debug\android\bin\AndroidAppUnderTest.AndroidAppUnderTest.apk
+C:\projects\AndroidStartupTimer\AndroidAppUnderTest\obj\Debug\res\layout\main.xml
+C:\projects\AndroidStartupTimer\AndroidAppUnderTest\obj\Debug\R.cs.flag
+C:\projects\AndroidStartupTimer\AndroidAppUnderTest\obj\Debug\uploadflags.txt
+C:\projects\AndroidStartupTimer\AndroidAppUnderTest\obj\Debug\res\drawable\icon.png

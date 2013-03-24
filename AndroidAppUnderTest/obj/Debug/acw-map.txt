@@ -1,0 +1,1 @@
+AndroidAppUnderTest.Activity1;androidappundertest.Activity1

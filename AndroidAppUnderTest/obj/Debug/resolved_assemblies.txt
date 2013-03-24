@@ -1,0 +1,1 @@
+C:\projects\AndroidStartupTimer\AndroidAppUnderTest\bin\Debug\AndroidAppUnderTest.dll
